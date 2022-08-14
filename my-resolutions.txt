@@ -2,6 +2,7 @@ Lanang Darma Resolusi
 - Menguasai stack MERN dengan batas waktu sampai september
 - Menguasai stack React dan Laravel
 - Menguasai HTTP METHOD untuk API
+- Menggunakan API untuk kinerja SSR
 - Membeli laptop baru akhir september
 - Membuat portofolio
 - Menjadi fullstack
