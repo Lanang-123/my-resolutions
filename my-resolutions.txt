@@ -1,5 +1,6 @@
 Lanang Darma Resolusi
 - Menguasai stack MERN dengan batas waktu sampai september
+- Menguasai stack React dan Laravel
 - Membeli laptop baru akhir september
 - Membuat portofolio
 - Menjadi fullstack
